@@ -7,6 +7,7 @@ Dit project bevat de volgende bestanden:
 1. `debug-me-1.js`
 2. `debug-me-2.js`
 3. `debug-me-3.js`
+4. `debug-me-4.js`
 
 ## Script runnen
 Als je de code wil runnen kun je dit doen door het volgende in de terminal in te voeren:
